@@ -199,13 +199,30 @@ TrailRenderer:
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+<<<<<<< HEAD
+=======
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: -2.606243
+        outSlope: -2.606243
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.10179639
+        outWeight: 0
+>>>>>>> 6c4c95246e97d3d166300785f0dfdf9b0a3b44e2
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
+<<<<<<< HEAD
       key0: {r: 1, g: 1, b: 1, a: 1}
       key1: {r: 1, g: 1, b: 1, a: 1}
+=======
+      key0: {r: 0.006026864, g: 1, b: 0, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 0.5529412}
+>>>>>>> 6c4c95246e97d3d166300785f0dfdf9b0a3b44e2
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
@@ -267,6 +284,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   distance: 10
+<<<<<<< HEAD
+=======
+  speed: 0.1
+>>>>>>> 6c4c95246e97d3d166300785f0dfdf9b0a3b44e2
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
